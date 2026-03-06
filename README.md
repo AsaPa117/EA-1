@@ -9,7 +9,7 @@ File Description: The fitness application is written in Python and uses a machin
 Running the Program: If you want to test the application, you can clone the link on a local computer. However, before you can run the program, you might need to download and import libraries for KModes ML, PySide, and Python from the terminal. Once downloaded, you can use Visual Studio Code to start it off. 
 
 Proof of Participation:
-
+The jpeg files are photos taken in Hackathon. 
 
 Reflection
 Activity Description: In a hackathon, the topic of our project solely focused on "Reinventing the Wheel", meaning we had to recreate an already existing product or concept that we could alter. Our team and I decided to recreate a fitness plan app, but to implement machine learning and challenge ourselves to write it in Python instead of C/C++. 
